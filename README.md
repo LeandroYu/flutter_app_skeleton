@@ -6,7 +6,7 @@ This is my base project using clean architecture
  - a designe system suporte.
  - pré setting to run Firebase Crashlytcs.
 
-the above image show the project structure:
+the image below shows the base project structure:
 
 
 ![flutter_app_skeleton](https://github.com/LeandroYu/flutter_app_skeleton/assets/51834987/4c079881-0a55-428e-825e-ecd215033f23)
