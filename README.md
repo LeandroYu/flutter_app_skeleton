@@ -8,5 +8,5 @@ This is my base project using clean architecture
 
 the above image show the project structure:
 
-![flutter_app_skeleton]()
-<img src="(https://github.com/LeandroYu/flutter_app_skeleton/assets/51834987/c696780e-8da4-4b32-aabe-478899db0084)" width="200" heigth="500">
+
+![flutter_app_skeleton](https://github.com/LeandroYu/flutter_app_skeleton/assets/51834987/4c079881-0a55-428e-825e-ecd215033f23)
