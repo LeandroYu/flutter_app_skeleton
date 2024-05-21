@@ -5,3 +5,8 @@ This is my base project using clean architecture
  - added some utils things like makefile and left hook option for project managements.
  - a designe system suporte.
  - pré setting to run Firebase Crashlytcs.
+
+the above image show the project structure:
+
+![flutter_app_skeleton]()
+<img src="(https://github.com/LeandroYu/flutter_app_skeleton/assets/51834987/c696780e-8da4-4b32-aabe-478899db0084)" width="200" heigth="500">
