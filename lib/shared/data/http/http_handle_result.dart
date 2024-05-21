@@ -23,14 +23,16 @@ class HttpHandleResult {
 
   void _handleApiErrorCode(ClientResponse result) {
     //TODO:
-    //Essa parte demanda reajuste de acordo com o retorno da API que estiver usando
+    //need to change it to fit your API error return
     String resultCode = result.data['code'];
     String resultMessage = result.data['message'];
 
-    //Essa parte do código é responsavel por lidar com o retorno da API em casos de retorno 444
+    //this part is to handle the 444 codes 
     //Exemplo:
-    // if (resultCode == '0001') {
-    //   throw ExpiredTokenError(message: resultMessage);
-    // }
+    // switch(resultCode)
+    //  case '0001': 
+    //    throw ExpiredTokenError();
+    //  default: 
+    //     throw UnkownError();
   }
 }
