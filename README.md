@@ -1,17 +1,7 @@
 # flutter_app_skeleton
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_project_structure
+This is my base project using clean architecture
+ - In this project I'm using a structure based on Feature First using Bloc/Cubit as state manager and GetIt as dependency injection.
+ - added some utils things like makefile and left hook option for project managements.
+ - a designe system suporte.
+ - pré setting to run Firebase Crashlytcs.
